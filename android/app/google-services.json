@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "447469522838",
+    "project_id": "vibechat-9a0c0",
+    "storage_bucket": "vibechat-9a0c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447469522838:android:43ecaeeeaeb80b86c8d7b7",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447469522838-sn4unv06f2a7k0i8jms7q7k422tpu40g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "c1f1a319e8caa20cd22c6250f3a30c658b700e0a"
+          }
+        },
+        {
+          "client_id": "447469522838-1tmvmqfi2og3hivpq9thlilau1v3h4s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OTIV1nGz54IxaGEkpzT_BfiBIFWIv9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447469522838-1tmvmqfi2og3hivpq9thlilau1v3h4s3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447469522838-8i922ul7k8np68g87cs7jrsb3ee9rfja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
